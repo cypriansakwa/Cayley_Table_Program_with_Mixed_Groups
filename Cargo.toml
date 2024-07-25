@@ -1,5 +1,5 @@
 [package]
-name = "Cayley_Table_Direct_Product_Additive_Multiplicative_Z_n"
+name = "Cayley_Table_Program_with_Mixed_Groups"
 version = "0.1.0"
 edition = "2021"
 
