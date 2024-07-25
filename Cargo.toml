@@ -1,0 +1,7 @@
+[package]
+name = "Cayley_Table_Direct_Product_Additive_Multiplicative_Z_n"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num = "0.4"
